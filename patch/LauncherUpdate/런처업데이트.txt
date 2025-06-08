@@ -1,0 +1,16 @@
+새로운 버전의 런처를 플레이어에 업데이트하려면,
+먼저 "temp.zip"에 새 실행기를 넣어야 합니다(실행기 exe 이름은 "NewLauncherVersion.exe"여야 함).
+두 번째로 "L_Version.zip" 파일에 있는 "L_Version.wvd" 파일을 편집하고 새 실행기 버전의 핵심 버전을 "temp.zip"에 넣어야 합니다.
+
+
+
+
+런처 업데이트
+temp.zip 안에 NewLauncherVersion.exe이름으로 새로운 런처를 넣고
+속성보기에서
+버전을 보고
+
+L_Version.zip안에 L_Version.wvd문서에 그 버전을 그대로 적으면
+런처 업데이트폴더안에 넣으면 자동으로 업데이트됨
+
+https://www.youtube.com/watch?v=tB3kiCA1s_4&list=PLgDm5tjEb8ucdGxFTUfFg888L4sRphEsH&index=7
